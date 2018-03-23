@@ -1,0 +1,11 @@
+devMode=true
+
+## mysql
+jdbcUrl=jdbc:mysql://127.0.0.1:3306/weixin_guide?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull 
+user=fancye
+password=fancye
+
+## wechat
+appId=wxff61dc97e1bcdcb8
+appSecret=0ddb21fd52bb5b82ecef3772c5f9b076
+token=fancye
